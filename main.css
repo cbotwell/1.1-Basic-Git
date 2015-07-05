@@ -1,4 +1,4 @@
-* {
+body {
     font-family: Helvetica, Arial, sans-serif;
     background-image: url(http://static.tumblr.com/5he5nuf/rVlmah8as/channels3_background.jpg);
     background-repeat: repeat;
@@ -14,4 +14,5 @@ a:hover {
 img {
     height: 200px;
     width: 200px;
+    border-radius: 3px;
 }
